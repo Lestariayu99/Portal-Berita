@@ -1,6 +1,6 @@
 import React from "react";
-import NewsApp from "./News/indexsatu";
-import App from "./News/portal";
+import NewsApp from "./Pages/indexsatu";
+import App from "./Pages/portal";
 
 
 export default class PortalNews extends React.Component {
